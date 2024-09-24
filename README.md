@@ -8,5 +8,5 @@
 - mail: abhinendras753@gmail.com
 
   <h3>Conenct with me:</h3>
-  <a [href="https://linkedin.com/in/](https://www.linkedin.com/in/abhinendra--singh/)"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"></a>
+  <a href="https://www.linkedin.com/in/abhinendra--singh/"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"></a>
 
